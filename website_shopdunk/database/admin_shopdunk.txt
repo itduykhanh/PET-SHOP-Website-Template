@@ -1,0 +1,5 @@
+Link admin shopdunk: http://localhost/website_shopdunk/index.php?area=backend
+Tk demo admin: adminduykhanhLTV@gmail.com
+pass : 123456
+tk khách hàng: Khuckhanh485@gmail.com
+pass: Khanh123@
